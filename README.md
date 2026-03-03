@@ -73,5 +73,5 @@ Worked on enterprise-scale software optimization and compliance-sensitive data s
 
 CONNECT
 
-LinkedIn: [Add Link]
+LinkedIn:www.linkedin.com/in/udayanpandey09 
 Email: udayan.pandey09@gmail.com
