@@ -1,77 +1,73 @@
-UDAYAN PANDEY
-AI Systems Engineer
 
-B.Tech CSE (Artificial Intelligence)
-Amrita Vishwa Vidyapeetham
 
-ABOUT
+# **HI, I'M UDAYAN PANDEY 🚀**
 
-I build AI systems that move beyond prototypes into reliable, production-ready architectures.
+**FINAL YEAR B.TECH CSE (AI)** | **INCOMING SDE @ A21.AI**
+**EX-SOFTWARE DEVELOPMENT ENGINEERING INTERN @ KPMG** | **AWS & CLOUD ENTHUSIAST**
 
-My focus lies at the intersection of agentic workflows, explainability, and scalable backend engineering — ensuring that intelligent systems remain observable, secure, and defensible.
+I am a **final-semester undergraduate at Amrita Vishwa Vidyapeetham**, specializing in **Scalable Software Engineering** and **Advanced Generative AI**. With hands-on experience at **KPMG** and **a21.ai**, I build AI systems that are **secure, explainable, and production-ready**.
 
-I optimize for clarity, structure, and long-term system design.
+---
 
-TECHNICAL FOCUS
+## **🧠 MY CORE EXPERTISE**
 
-LLM & Agentic Systems
-CrewAI · Multimodal RAG · LangChain · Langfuse
+**GENERATIVE & AGENTIC AI**
+Autonomous agents and complex **RAG (Retrieval-Augmented Generation)** architectures using **crew.ai** and **LangChain**.
 
-Explainability & Governance
-Explainable AI (XAI) · Model Transparency · Auditability
+**AI GOVERNANCE & XAI**
+Focused on **Explainable AI (XAI)** and governance techniques to ensure systems remain **transparent, ethical, and compliant**.
 
-Backend Engineering
-Python · FastAPI · SQL · PostgreSQL
+**CLOUD ARCHITECTURE**
+Deploying AI workloads on **AWS**, managing **PostgreSQL**, and optimizing infrastructure for **performance and cost efficiency**.
 
-Cloud Architecture
-AWS · Azure
+**PROBLEM SOLVING**
+Strong foundation in **Data Structures & Algorithms**, applied to real-world engineering bottlenecks.
 
-CORE PROJECTS
-CROPINTEL
+---
 
-AI-driven agricultural intelligence platform for sustainable farming decisions.
+## **🛠 TECH STACK & TOOLS**
 
-Transforms environmental and crop-level data into structured, predictive insights through scalable ML pipelines.
+**AI FRAMEWORKS**
+OpenAI SDK · **LangChain** · **crew.ai** · LlamaIndex · HuggingFace
 
-Data-to-decision intelligence
+**CLOUD**
+**AWS (EC2, S3, Lambda)** · **Microsoft Azure (AZ-900)**
 
-Deployment-focused ML design
+**BACKEND & DATA**
+**Python (FastAPI/Flask)** · **PostgreSQL** · PySpark · **ChromaDB / Pinecone**
 
-Practical AI for real-world environments
+**SECURITY & GRC**
+**CodeQL** · **OWASP Top 10** · AI Governance Frameworks
 
-HEALTHIFY.AI
+---
 
-AI-powered health diagnostics prototype designed to simulate structured clinical reasoning.
+## **🚀 KEY PROJECTS**
 
-Blends rule-based logic with machine learning workflows to produce interpretable, user-centric outputs.
+**SYNAPSE GRC**
+Agentic Multimodal RAG platform designed to streamline compliance and audit workflows.
 
-Symptom-to-risk mapping
+**SECURE AGENTIC DB**
+Natural-language-to-SQL system built with **crew.ai** and **Langfuse**, enforcing strict security and traceability.
 
-Explainable predictions
+**STELLARSANITY**
+Machine learning system leveraging **NASA datasets** to predict software defects with strong emphasis on interpretability.
 
-Lightweight deployable architecture
+---
 
-STELLARSANITY
+## **🏆 ACHIEVEMENTS**
 
-Interpretable ML engine for software defect prediction using NASA datasets.
+**DISTRICT CHESS RUNNER-UP**
+Applying strategic foresight to system architecture and debugging.
 
-Built with a deliberate emphasis on transparency over black-box performance.
+**STATE-LEVEL BRONZE MEDALIST (DEBATE)**
+Experienced in translating complex technical decisions into clear business value.
 
-Feature attribution analysis
+---
 
-Risk modeling for engineering systems
+## **📫 CONNECT**
 
-Stakeholder-ready model justification
+**LinkedIn:** www.linkedin.com/in/udayanpandey09
+**Email:** [udayan.pandey09@gmail.com](mailto:udayan.pandey09@gmail.com)
 
-EXPERIENCE
 
-SDE Intern — a21.ai
-Built agentic AI applications and implemented LLM observability pipelines for secure database workflows.
 
-SDE Intern — KPMG
-Worked on enterprise-scale software optimization and compliance-sensitive data systems.
-
-CONNECT
-
-LinkedIn:www.linkedin.com/in/udayanpandey09 
-Email: udayan.pandey09@gmail.com
