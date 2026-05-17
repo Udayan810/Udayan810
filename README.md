@@ -2,7 +2,7 @@
 
 # **HI, I'M UDAYAN PANDEY 🚀**
 
-**FINAL YEAR B.TECH CSE (AI)** | **INCOMING SDE @ A21.AI**
+**FINAL YEAR B.TECH CSE (AI)** |  SDE @ a21.ai
 **EX-SOFTWARE DEVELOPMENT ENGINEERING INTERN @ KPMG** | **AWS & CLOUD ENTHUSIAST**
 
 I am a **final-semester undergraduate at Amrita Vishwa Vidyapeetham**, specializing in **Scalable Software Engineering** and **Advanced Generative AI**. With hands-on experience at **KPMG** and **a21.ai**, I build AI systems that are **secure, explainable, and production-ready**.
