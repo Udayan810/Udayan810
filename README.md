@@ -57,14 +57,14 @@ I build AI systems that are **secure, explainable, scalable, observable, and pro
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 SYNAPSE GRC</h3>
-      <p>An Agentic AI platform designed to streamline compliance, governance, and ITGC/SOX audit workflows through intelligent agents and multimodal RAG.</p>
-      <code>LangChain</code> <code>RAG</code> <code>ChromaDB</code> <code>Agentic AI</code>
-    </td>
-    <td width="50%" valign="top">
       <h3>📐 DraftClear</h3>
       <p>A 5-agent AI pipeline deployed on Hugging Face to resolve label collisions in CAD drawings, integrating computer vision and localized intelligence.</p>
       <code>LangGraph</code> <code>YOLOv10</code> <code>GANs</code> <code>Local LLMs</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 SYNAPSE GRC</h3>
+      <p>An Agentic AI platform designed to streamline compliance, governance, and ITGC/SOX audit workflows through intelligent agents and multimodal RAG.</p>
+      <code>LangChain</code> <code>RAG</code> <code>ChromaDB</code> <code>Agentic AI</code>
     </td>
   </tr>
   <tr>
@@ -81,9 +81,9 @@ I build AI systems that are **secure, explainable, scalable, observable, and pro
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 OncoPath v2.0</h3>
-      <p>A clinical decision support system architecture utilizing advanced model routing and integrations for medical data analysis.</p>
-      <code>MCP</code> <code>LangGraph</code> <code>Machine Learning</code>
+      <h3>🩺 Healthify-AI</h3>
+      <p>A smart diagnostics platform utilizing Generative AI for early disease detection, symptom assessment, and simulated image analysis.</p>
+      <code>Generative AI</code> <code>Python</code> <code>APIs</code>
     </td>
     <td width="50%" valign="top">
       <h3>🔐 SECURE AGENTIC DB</h3>
