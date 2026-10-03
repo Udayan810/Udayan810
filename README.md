@@ -95,6 +95,20 @@ I build AI systems that are **secure, explainable, scalable, observable, and pro
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/7d0ce9bb-b09a-4f84-a707-3d91ed2445b7/linked_in?t=teiln1">
+    <img src="https://img.shields.io/badge/AWS_Certified-Machine_Learning_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Associate"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/68488a10-bb84-4837-a5ea-92133ac29564/linked_in">
+    <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner_Foundational-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner Foundational"/>
+  </a>
+</div>
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
