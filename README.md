@@ -62,9 +62,9 @@ I build AI systems that are **secure, explainable, scalable, observable, and pro
       <code>LangGraph</code> <code>YOLOv10</code> <code>GANs</code> <code>Local LLMs</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 SYNAPSE GRC</h3>
-      <p>An Agentic AI platform designed to streamline compliance, governance, and ITGC/SOX audit workflows through intelligent agents and multimodal RAG.</p>
-      <code>LangChain</code> <code>RAG</code> <code>ChromaDB</code> <code>Agentic AI</code>
+      <h3>🎥 ContextLens</h3>
+      <p>An AI video assistant for media transcription, summarization, and RAG-based Q&A using Gemini 2.5, Whisper, ChromaDB, and Sarvam APIs.</p>
+      <code>Streamlit</code> <code>Gemini</code> <code>Whisper</code> <code>RAG</code>
     </td>
   </tr>
   <tr>
